@@ -1,5 +1,5 @@
 # tiles-performance
-## 東京圏における建築物 3D Tiles モデルの最適化前後比較
+## 東京圏における建築物 3D Tiles モデルの最適化
 
 ---
 
